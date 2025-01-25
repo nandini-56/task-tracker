@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Buy groceries",
+    "status": "DONE",
+    "createdAt": "2025-01-25T17:40:15.108044545+05:30",
+    "updatedAt": "2025-01-25T17:55:05.302916654+05:30"
+  },
+  {
+    "id": 2,
+    "description": "Job Hunt",
+    "status": "TODO",
+    "createdAt": "2025-01-25T17:42:40.217526336+05:30",
+    "updatedAt": "2025-01-25T17:42:40.217526336+05:30"
+  },
+  {
+    "id": 3,
+    "description": "Solve issue 34",
+    "status": "TODO",
+    "createdAt": "2025-01-25T18:07:11.173361423+05:30",
+    "updatedAt": "2025-01-25T18:07:11.173361423+05:30"
+  }
+]
